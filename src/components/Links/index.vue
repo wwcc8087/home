@@ -45,33 +45,33 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "博客",
-    link: "https://blog.imsyy.top/",
+    name: "项目资源",
+    link: "https:/www.weijyun.cn",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "云上小店",
+    link: "https://shop.weijyun.cn",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "在线ChatGPT",
+    link: "https://gpt.weijyun.cn",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "在线ChatGPT2",
+    link: "https://www.weijyun.cn/ai",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "在线ChatGPT3",
+    link: "https://ai.weijyun.cn/",
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "在线ChatGPT5",
+    link: "https://www.openaim.online",
   },
 ];
 
